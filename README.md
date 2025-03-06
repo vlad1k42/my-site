@@ -1,0 +1,1 @@
+# school-template-ai-lab
